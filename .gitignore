@@ -1,0 +1,5 @@
+bin/
+obj/
+/packages/
+.idea/
+testfiles/specimenDate_ageDemographic-stacked.csv
