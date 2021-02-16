@@ -10,7 +10,7 @@ Add an API that allows a user to:
 * Import the file into the database
 * Calculate the total cases by area name and return those results as JSON
 
-The CSV from the ONS dashboard  can be found here: https://coronavirus-staging.data.gov.uk/details/about-data under **Daily COVID-19 cases by age and specimen date in stacked CSV format**.
+Example CSVs from the ONS COVID dashboard can be found in the **testfiles/** directory.
 
 The header from the CSV file may be stripped by the user before being uploaded into the system.
 
